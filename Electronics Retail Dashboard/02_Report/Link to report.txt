@@ -1,0 +1,3 @@
+https://app.powerbi.com/view?r=eyJrIjoiNmFhZDQyNzItMjJkNy00ZDJjLTk4M2YtYmNiNTcyNGE2Y2I5IiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D
+
+<iframe title="Electronics retail_1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmFhZDQyNzItMjJkNy00ZDJjLTk4M2YtYmNiNTcyNGE2Y2I5IiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
