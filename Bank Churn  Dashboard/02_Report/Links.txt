@@ -1,0 +1,3 @@
+https://app.powerbi.com/view?r=eyJrIjoiYmQzYmRhNDAtYzIyZC00NjZiLWJjZjYtMTgxNGU1ZjVkM2VmIiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D
+
+<iframe title="Bank_customer_churn" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmQzYmRhNDAtYzIyZC00NjZiLWJjZjYtMTgxNGU1ZjVkM2VmIiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
