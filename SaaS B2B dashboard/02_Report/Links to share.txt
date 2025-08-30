@@ -1,0 +1,5 @@
+https://app.powerbi.com/view?r=eyJrIjoiYzMyOGIxNzItN2MxOS00NDMyLWI5N2ItZTYyM2ViNjhkMDFhIiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D&pageName=eb7aa00cbc06c1466045
+
+<iframe title="SaaS B2B dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzMyOGIxNzItN2MxOS00NDMyLWI5N2ItZTYyM2ViNjhkMDFhIiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D&pageName=eb7aa00cbc06c1466045" frameborder="0" allowFullScreen="true"></iframe>
+
+https://shorturl.at/OBvik

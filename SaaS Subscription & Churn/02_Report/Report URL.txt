@@ -1,0 +1,3 @@
+https://app.powerbi.com/view?r=eyJrIjoiMjlmZDQ5ZjItNTIyZC00NzliLWEwMTEtMjQ1YTM1YmNkMzJjIiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D
+
+<iframe title="SaaS_Subscription_&_Churn" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjlmZDQ5ZjItNTIyZC00NzliLWEwMTEtMjQ1YTM1YmNkMzJjIiwidCI6IjE5ZTJmOTY0LTM1NWItNGI5MC05YzMwLTM0OTI3Nzg4N2MxYSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
